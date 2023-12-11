@@ -5,8 +5,7 @@ date: "2023-12-11"
 
 The CCHDO team is happy to announce that new bottle datasets for various cruises have been recently made available online. This data is now accessible in standard formats on the respective cruise pages.
 
-###### Cruises with Updated Data:
-
+##### Cruises with Updated Data:
 |                      |                      |
 |----------------------|----------------------|
 | [29AH20090725][1]    | [49NZ20140709][5]    |
