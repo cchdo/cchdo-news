@@ -1,5 +1,5 @@
 ---
-title: CCHDO Ocean Sciences Meeting Poster
+title: Ocean Sciences Meeting Poster
 date: "2024-02-07"
 ---
 
