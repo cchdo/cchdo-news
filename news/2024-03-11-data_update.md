@@ -3,8 +3,7 @@ title: New Bottle Data Online
 date: "2024-03-11"
 ---
 
-New bottle datasets from various cruises are now available online in standard formats, courtesy of the CCHDO team.
-
+New data from various cruises are now available online in standard formats:
 - [A05 (2022)][1]
 - [A10, A10.5 (2017)][2]
 - [A17 (2019)][3]
