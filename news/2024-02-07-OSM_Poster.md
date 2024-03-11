@@ -1,6 +1,7 @@
 ---
 title: CCHDO Ocean Sciences Meeting Poster
 date: "2024-02-22"
+
 ---
 
 The CCHDO proudly presented our poster: "One Stop Shop for Over 2500 Cruises: the CCHDO Hydrographic Data Office" at the Ocean Sciences Meeting in New Orleans. For those who missed it or wish to review, our poster is now available online [here][1]. Thanks to all who engaged with us and showed support!
