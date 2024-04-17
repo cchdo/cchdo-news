@@ -53,7 +53,7 @@ function App() {
   return (
     <>
       {allNewsData.slice(0, 4).map((newsData: NewsDataType, index: number) => {
-        return index === 4 ? (
+        return index === 3 ? (
           <React.Fragment key={newsData.id}>
             <NewsItem {...newsData} />
           </React.Fragment>
