@@ -52,7 +52,7 @@ function App() {
   const allNewsData = getSortedNewsData();
   return (
     <>
-      {allNewsData.slice(0, 5).map((newsData: NewsDataType, index: number) => {
+      {allNewsData.slice(0, 4).map((newsData: NewsDataType, index: number) => {
         return index === 4 ? (
           <React.Fragment key={newsData.id}>
             <NewsItem {...newsData} />
