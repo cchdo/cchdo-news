@@ -13,17 +13,14 @@ New data from various cruises are now available online in standard formats:
 - [RF1404 (2014)][3]
 - [RF1509 (2015)][4]
 - [MSM-27 (2013)][8]
-- [AR07E (2011)][5]
 - [MedSea (1997)][9]
 - [MedSea (1999)][10]
-- [MET60_5 (2004)][6]
+
 
 [1]: /cruise/49UF20131006
 [2]: /cruise/49UF20170110
 [3]: /cruise/49UP20140429
 [4]: /cruise/49UP20151115
-[5]: /cruise/74E320110511
-[6]: /cruise/06MT20040311
 [7]: /cruise/49RY20100706
 [8]: /cruise/06M220130419
 [9]: /cruise/48UR19970830
