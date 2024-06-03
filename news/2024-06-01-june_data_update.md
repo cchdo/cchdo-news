@@ -3,7 +3,7 @@ title: Data and Cruise Report Updates
 date: "2024-06-01"
 ---
 
-New data and/or cruise reports from various cruises are now available online in standard formats:
+New data and/or cruise reports from various cruises are now available online in standard formats. Explore the latest updates:
 - [75N (2006)][1]
 - [S04P (2018)][2]
 - [S04I (2019)][3]
