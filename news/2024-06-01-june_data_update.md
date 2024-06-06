@@ -13,7 +13,6 @@ New data and/or cruise reports from various cruises are now available online in 
 - [JR17003 (2018)][8] [Bottle, Cruise Report]
 - [RR2307 (2023)][7] [Bottle, CTD, Cruise Report]
 
-
 [1]: /cruise/58GS20060721
 [2]: /cruise/320620180309
 [3]: /cruise/490S20190121
