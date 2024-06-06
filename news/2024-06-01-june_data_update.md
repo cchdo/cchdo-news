@@ -3,7 +3,8 @@ title: Data and Cruise Report Updates
 date: "2024-06-01"
 ---
 
-New data and/or cruise reports from various cruises are now available online in standard formats:
+New data and/or cruise reports from various cruises are now available online in standard formats.
+Explore the latest updates:
 - [S04I (2019)][3]: Bottle
 - [TAIPro (2016)][6]: Bottle
 - [SR1b (2017)][4]: Cruise Report
