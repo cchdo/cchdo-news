@@ -4,7 +4,7 @@ date: "2024-06-01"
 ---
 
 New data and/or cruise reports from various cruises are now available online in standard formats:
-- [S04I (2019)]:[3] [Bottle
+- [S04I (2019)]:[3] Bottle
 - [TAIPro (2016)]:[6] Bottle
 - [SR1b (2017)]:[4] Cruise Report
 - [75N (2006)]:[1] Cruise Report
