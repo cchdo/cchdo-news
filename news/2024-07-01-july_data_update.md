@@ -5,11 +5,12 @@ date: "2024-07-01"
 
 New data and/or cruise reports from various cruises are now available online in standard formats:
 
-- [SR1b (2009)][3]: Bottle, Cruise Report
+- [TransArc (2011)][4]: Bottle
 - [KS1706 (2017)][1]: Bottle
 - [KS1808 (2018)][2]: Bottle
 - [RF1806 (2018)][5]: Bottle, Cruise Report
-- [TransArc (2011)][4]: Bottle
+- [SR1b (2009)][3]: Bottle, Cruise Report
+
 
 [1]: /cruise/49UF20170719
 [2]: /cruise/49UF20180927
