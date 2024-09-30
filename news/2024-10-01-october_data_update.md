@@ -3,7 +3,7 @@ title: Data and Cruise Report Updates
 date: "2024-10-01"
 ---
 
-New data and/or data corrections from various cruises are now available online in standard formats:
+New data from various cruises are now available online in standard formats:
 
 - [AR07E (2007)][1]: Bottle
 - [RF1605 (2016)][2]: Bottle
