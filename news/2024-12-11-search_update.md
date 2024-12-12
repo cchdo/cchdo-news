@@ -5,7 +5,7 @@ date: "2024-12-11"
 
 Our search functionality now supports field-specific queries, allowing you to refine your search using the syntax `field:"term"`.
 
-For example, try [`ship:"Atlantis"`][1] or [`woce_line:"P15"`][2] to find exactly what you need!
+For example, try [`ship:"Atlantis"`][1] or [`woce_line:"P15"`][2] in the search bar to find exactly what you need!
 
 Please see our [Advanced Search][3] for more information.
 
