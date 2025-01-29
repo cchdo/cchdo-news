@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import matter from "gray-matter";
 import ReactMarkdown from "react-markdown";
 import gfm from "remark-gfm";
@@ -50,9 +50,13 @@ const NewsItem = ({ contentMarkdown, date, title }: NewsDataType) => {
 
 function App() {
   const allNewsData = getSortedNewsData();
+  const itemsPerPage = 4;
+  const [currentPage, setCurrentPage] = useState(0)
+
+  const pageItemIndex = currentPage * itemsPerPage;
   return (
     <>
-      {allNewsData.slice(0, 4).map((newsData: NewsDataType, index: number) => {
+      {allNewsData.slice(pageItemIndex, pageItemIndex + itemsPerPage).map((newsData: NewsDataType, index: number) => {
         return index === 3 ? (
           <React.Fragment key={newsData.id}>
             <NewsItem {...newsData} />
@@ -64,6 +68,10 @@ function App() {
           </React.Fragment>
         );
       })}
+      <ul className="pager">
+        <li className={allNewsData.length < (pageItemIndex + itemsPerPage) ? "previous disabled" : "previous"}><a href="#" onClick={() => setCurrentPage(currentPage + 1)}><span aria-hidden="true">&larr;</span> Older</a></li>
+        <li className={currentPage === 0 ? "next disabled" : "next"}><a href="#" onClick={() => setCurrentPage(currentPage - 1)}>Newer <span aria-hidden="true">&rarr;</span></a></li>
+      </ul>
     </>
   );
 }
