@@ -54,6 +54,8 @@ function App() {
   const [currentPage, setCurrentPage] = useState(0)
 
   const pageItemIndex = currentPage * itemsPerPage;
+  const atPageOne = currentPage === 0;
+  const atPageLast = allNewsData.length < (pageItemIndex + itemsPerPage);
   return (
     <>
       {allNewsData.slice(pageItemIndex, pageItemIndex + itemsPerPage).map((newsData: NewsDataType, index: number) => {
@@ -69,8 +71,8 @@ function App() {
         );
       })}
       <ul className="pager">
-        <li className={allNewsData.length < (pageItemIndex + itemsPerPage) ? "previous disabled" : "previous"}><a href="#" onClick={() => setCurrentPage(currentPage + 1)}><span aria-hidden="true">&larr;</span> Older</a></li>
-        <li className={currentPage === 0 ? "next disabled" : "next"}><a href="#" onClick={() => setCurrentPage(currentPage - 1)}>Newer <span aria-hidden="true">&rarr;</span></a></li>
+        <li className={atPageLast ? "previous disabled" : "previous"}><a href="#" onClick={() => !atPageLast && setCurrentPage(currentPage + 1)}><span aria-hidden="true">&larr;</span> Older</a></li>
+        <li className={atPageOne ? "next disabled" : "next"}><a href="#" onClick={() => !atPageOne && setCurrentPage(currentPage - 1)}>Newer <span aria-hidden="true">&rarr;</span></a></li>
       </ul>
     </>
   );
