@@ -55,7 +55,7 @@ function App() {
 
   const pageItemIndex = currentPage * itemsPerPage;
   const atPageOne = currentPage === 0;
-  const atPageLast = allNewsData.length < (pageItemIndex + itemsPerPage);
+  const atPageLast = allNewsData.length <= (pageItemIndex + itemsPerPage);
   return (
     <>
       {allNewsData.slice(pageItemIndex, pageItemIndex + itemsPerPage).map((newsData: NewsDataType, index: number) => {
