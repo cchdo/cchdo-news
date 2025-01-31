@@ -3,7 +3,7 @@ import matter from "gray-matter";
 import ReactMarkdown from "react-markdown";
 import gfm from "remark-gfm";
 
-const news = import.meta.glob("../news/*.md", { as: "raw", eager: true });
+const news = import.meta.glob("../news/*.md", { query: "?raw", import: "default", eager: true });
 
 export type NewsDataType = {
   id: string;
