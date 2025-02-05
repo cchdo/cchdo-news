@@ -6,6 +6,7 @@ import { nodePolyfills } from 'vite-plugin-node-polyfills'
 export default defineConfig({
   plugins: [react(), nodePolyfills({include: ['buffer']})],
   build: {
+    target: "es2015",
     rollupOptions: {
       output: {
         entryFileNames: `assets/[name].js`,
