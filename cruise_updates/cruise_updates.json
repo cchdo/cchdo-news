@@ -1,0 +1,534 @@
+[
+    {
+      "date_updated": "2025-02-19",
+      "sect_id": "TAIPro2022",
+      "year": 2022,
+      "expocode": "11BG20220517",
+      "update_type": "Cruise Report"
+    },
+    {
+      "date_updated": "2025-02-20",
+      "sect_id": "CAIBOX-2009",
+      "year": 2009,
+      "expocode": "29AH20090725",
+      "update_type": "Cruise Report"
+    },
+    {
+      "date_updated": "2025-02-05",
+      "sect_id": "P10",
+      "year": 2014,
+      "expocode": "49UP20140609",
+      "update_type": "Cruise Report"
+    },
+    {
+      "date_updated": "2025-02-18",
+      "sect_id": "RF1601",
+      "year": 2016,
+      "expocode": "49UP20161009",
+      "update_type": "Bottle"
+    },
+    {
+      "date_updated": "2025-02-18",
+      "sect_id": "RF1504",
+      "year": 2015,
+      "expocode": "49UP20150426",
+      "update_type": "Bottle"
+    },
+    {
+      "date_updated": "2025-02-18",
+      "sect_id": "RF1502",
+      "year": 2015,
+      "expocode": "49UP20150228",
+      "update_type": "Bottle"
+    },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "I08",
+        "year": 2024,
+        "expocode": "325020240221",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "KS1802",
+        "year": 2018,
+        "expocode": "49UF20180129",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "RF1802",
+        "year": 2018,
+        "expocode": "49UP20180228",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "KS1804",
+        "year": 2018,
+        "expocode": "49UF20180406",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "RF1804",
+        "year": 2018,
+        "expocode": "49UP20180501",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "KS1805",
+        "year": 2018,
+        "expocode": "49UF20180518",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "RF1805",
+        "year": 2018,
+        "expocode": "49UP20180614",
+        "update_type": "CTD"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "RF1806",
+        "year": 2018,
+        "expocode": "49UP20180806",
+        "update_type": "CTD"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "RF1705",
+        "year": 2017,
+        "expocode": "49UP20170425",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "RF1708",
+        "year": 2017,
+        "expocode": "49UP20170815",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "RF1710",
+        "year": 2017,
+        "expocode": "49UP20171125",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "RF1602",
+        "year": 2016,
+        "expocode": "49UP20160227",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "RF1603",
+        "year": 2016,
+        "expocode": "49UP20160408",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "RF1604",
+        "year": 2016,
+        "expocode": "49UP20160427",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "RF1608",
+        "year": 2016,
+        "expocode": "49UP20161021",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "AU1603",
+        "year": 2016,
+        "expocode": "09AR20160111",
+        "update_type": "Cruise Report"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "MSM43",
+        "year": 2015,
+        "expocode": "06M220150525",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "P04W",
+        "year": 2015,
+        "expocode": "49UP20150724",
+        "update_type": "Cruise Report"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "KS1403",
+        "year": 2014,
+        "expocode": "49UF20140410",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "KS1404",
+        "year": 2014,
+        "expocode": "49UF20140512",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "KS1405",
+        "year": 2014,
+        "expocode": "49UF20140623",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "KS1406",
+        "year": 2014,
+        "expocode": "49UF20140904",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "A16S",
+        "year": 2011,
+        "expocode": "33RO20110926",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "KS1110",
+        "year": 2011,
+        "expocode": "49UF20111205",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "KS1007",
+        "year": 2010,
+        "expocode": "49UF20101002",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "KS1009",
+        "year": 2010,
+        "expocode": "49UF20101203",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "AR07",
+        "year": 2009,
+        "expocode": "06M220090714",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "MED01",
+        "year": 1997,
+        "expocode": "06PO19971023",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "MEDSEA",
+        "year": 1996,
+        "expocode": "06PO19960522",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2025-01-03",
+        "sect_id": "MEDSEA",
+        "year": 1994,
+        "expocode": "06MT19941230",
+        "update_type": "Bottle, Cruise Report"
+      },
+      {
+        "date_updated": "2024-12-02",
+        "sect_id": "MED01",
+        "year": 1997,
+        "expocode": "06PO19971023",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-12-02",
+        "sect_id": "KS1506",
+        "year": 2015,
+        "expocode": "49UF20150620",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-12-02",
+        "sect_id": "KS1605",
+        "year": 2016,
+        "expocode": "49UF20160512",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-12-02",
+        "sect_id": "KS1806",
+        "year": 2018,
+        "expocode": "49UF20180709",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-12-02",
+        "sect_id": "40N",
+        "year": 2019,
+        "expocode": "49UP20190612",
+        "update_type": "Cruise Report"
+      },
+      {
+        "date_updated": "2024-12-02",
+        "sect_id": "HEOBI",
+        "year": 2016,
+        "expocode": "096U20160108",
+        "update_type": "Cruise Report"
+      },
+      {
+        "date_updated": "2024-11-01",
+        "sect_id": "IR01W",
+        "year": 1998,
+        "expocode": "06BE128",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-11-01",
+        "sect_id": "KS1506",
+        "year": 2015,
+        "expocode": "49UF20150620",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-11-01",
+        "sect_id": "MED01",
+        "year": 1999,
+        "expocode": "06MT19990410",
+        "update_type": "Bottle, Cruise Report"
+      },
+      {
+        "date_updated": "2024-10-01",
+        "sect_id": "AR07",
+        "year": 2022,
+        "expocode": "33VB20220819",
+        "update_type": "Cruise Report"
+      },
+      {
+        "date_updated": "2024-10-01",
+        "sect_id": "LOMROG",
+        "year": 2007,
+        "expocode": "77DN20070812",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-10-01",
+        "sect_id": "A13.5",
+        "year": 2024,
+        "expocode": "33H320240201",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-10-01",
+        "sect_id": "P06",
+        "year": 2017,
+        "expocode": "320620170820",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-10-01",
+        "sect_id": "P14",
+        "year": 2023,
+        "expocode": "49NZ20231006",
+        "update_type": "CTD"
+      },
+      {
+        "date_updated": "2024-09-01",
+        "sect_id": "AR07E",
+        "year": 2007,
+        "expocode": "64PE20070830",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-09-01",
+        "sect_id": "RF1605",
+        "year": 2016,
+        "expocode": "49UP20160608",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-09-01",
+        "sect_id": "S04I",
+        "year": 2018,
+        "expocode": "490S20181205",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-08-01",
+        "sect_id": "AR07E",
+        "year": 2011,
+        "expocode": "64PE20110724",
+        "update_type": "CTD"
+      },
+      {
+        "date_updated": "2024-08-01",
+        "sect_id": "P02E",
+        "year": 2022,
+        "expocode": "33RR20220613",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-08-01",
+        "sect_id": "AR07W",
+        "year": 2000,
+        "expocode": "18HU2000009_1",
+        "update_type": "Cruise Report"
+      },
+      {
+        "date_updated": "2024-08-01",
+        "sect_id": "SR01b",
+        "year": 2018,
+        "expocode": "74JC20181103",
+        "update_type": "Cruise Report"
+      },
+      {
+        "date_updated": "2024-08-01",
+        "sect_id": "JARE43",
+        "year": 2002,
+        "expocode": "61TG20020206",
+        "update_type": "Cruise Report"
+      },
+      {
+        "date_updated": "2024-08-01",
+        "sect_id": "40N",
+        "year": 2012,
+        "expocode": "49UP20120726",
+        "update_type": "Bottle, Cruise Report"
+      },
+      {
+        "date_updated": "2024-07-01",
+        "sect_id": "P02",
+        "year": 2022,
+        "expocode": "33RR20220430",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-07-01",
+        "sect_id": "A05",
+        "year": 2010,
+        "expocode": "74DI20100106",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-07-01",
+        "sect_id": "RF1801",
+        "year": 2018,
+        "expocode": "49UP20180110",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-07-01",
+        "sect_id": "KS1606",
+        "year": 2016,
+        "expocode": "49UF20160618",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-07-01",
+        "sect_id": "SR03",
+        "year": 2002,
+        "expocode": "61TG20020206",
+        "update_type": "Bottle, Cruise Report"
+      },
+      {
+        "date_updated": "2024-06-01",
+        "sect_id": "TransArc",
+        "year": 2011,
+        "expocode": "06AQ20110805",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-06-01",
+        "sect_id": "KS1706",
+        "year": 2017,
+        "expocode": "49UF20170719",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-06-01",
+        "sect_id": "KS1808",
+        "year": 2018,
+        "expocode": "49UF20180927",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-06-01",
+        "sect_id": "RF1806",
+        "year": 2018,
+        "expocode": "49UP20180806",
+        "update_type": "Bottle, Cruise Report"
+      },
+      {
+        "date_updated": "2024-06-01",
+        "sect_id": "SR1b",
+        "year": 2009,
+        "expocode": "74JC20091118",
+        "update_type": "Bottle, Cruise Report"
+      },
+      {
+        "date_updated": "2024-05-01",
+        "sect_id": "S04I",
+        "year": 2019,
+        "expocode": "490S20190121",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-05-01",
+        "sect_id": "TAIPro",
+        "year": 2016,
+        "expocode": "29AJ20160818",
+        "update_type": "Bottle"
+      },
+      {
+        "date_updated": "2024-05-01",
+        "sect_id": "SR1b",
+        "year": 2017,
+        "expocode": "74JC20171121",
+        "update_type": "Cruise Report"
+      },
+      {
+        "date_updated": "2024-05-01",
+        "sect_id": "75N",
+        "year": 2006,
+        "expocode": "58GS20060721",
+        "update_type": "Cruise Report"
+      },
+      {
+        "date_updated": "2024-05-01",
+        "sect_id": "S04P",
+        "year": 2018,
+        "expocode": "320620180309",
+        "update_type": "Bottle, CTD"
+      },
+      {
+        "date_updated": "2024-05-01",
+        "sect_id": "JR17003",
+        "year": 2018,
+        "expocode": "74JC20180126",
+        "update_type": "Bottle, Cruise Report"
+      },
+      {
+        "date_updated": "2024-05-01",
+        "sect_id": "RR2307",
+        "year": 2023,
+        "expocode": "33RR20230629",
+        "update_type": "Bottle, CTD, Cruise Report"
+      }
+    ]
