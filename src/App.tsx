@@ -30,6 +30,10 @@ export function getSortedNewsData() {
   );
   // Sort posts by date
   return allNewssData.sort((a, b) => {
+    // If either item is pinned, it should come first
+    if (a.pinned && !b.pinned) return -1;
+    if (!a.pinned && b.pinned) return 1;
+    // If both are pinned or both are unpinned, sort by date
     if (a.date < b.date) {
       return 1;
     } else {
@@ -38,10 +42,13 @@ export function getSortedNewsData() {
   });
 }
 
-const NewsItem = ({ contentMarkdown, date, title }: NewsDataType) => {
+const NewsItem = ({ contentMarkdown, date, title, pinned }: NewsDataType) => {
   return (
     <>
-      <h5>{title}</h5>
+      <h5>
+        {pinned && <i className="fa-solid fa-thumbtack text-primary" style={{ marginRight: '8px' }}></i>}
+        {title}
+      </h5>
       <small>{date}</small>
       <ReactMarkdown remarkPlugins={[gfm]}>{contentMarkdown}</ReactMarkdown>
     </>
