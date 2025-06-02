@@ -1,7 +1,7 @@
 ---
 title: New Monthly Data & Cruise Report Updates Page
 date: "2025-03-24"
-pinned: true
+pinned: false
 ---
 
 We've launched a [Monthly Data & Cruise Report Updates](/cruise-updates) page to share updates of newly processed data and cruise report.
